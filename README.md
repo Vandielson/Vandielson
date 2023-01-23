@@ -1,4 +1,4 @@
-### Olá, eu sou Vandielson Tenório!
+##  Olá, meu nome é Vandielson Tenório!
 
 <div align="center">
   <a href="https://github.com/Vandielson">
@@ -18,7 +18,5 @@
 <div> 
   <a href="https://www.instagram.com/vantenorioo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vandielson-ten%C3%B3rio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Vandielson/Vandielson/blob/output/github-contribution-grid-snake.svg)
  
 </div>
